@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Change HTML</h2>
+<p id="p1">Hello World!</p>
+
+<script>
+document.getElementById("p1").innerHTML = "New World!!!";
+</script>
+
+<p>Kata di atas berubah.</p>
+
+</body>
+</html>
